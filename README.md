@@ -86,6 +86,15 @@ https://openjdk.java.net
 ## JVM
 虚拟机如何查找class文件？
 
+
+
+Java内存Committed、Used、Max
+参见类：MemoryUsage
+
+https://docs.oracle.com/javase/8/docs/technotes/guides/vm/gctuning/
+
+
+
 ## TODO
 响应式
 云原生
